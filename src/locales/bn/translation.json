@@ -1,0 +1,60 @@
+{
+  "title": "স্বাস্থ্য সচেতনতা এবং শিক্ষা",
+  "subtitle": "শিখুন, অনুশীলন করুন এবং সম্প্রদায়ের স্বাস্থ্য সম্পর্কে অবগত থাকুন",
+  "language": "ভাষা",
+  "duration": "সময়কাল",
+
+  "audio": {
+    "title": "অডিও স্বাস্থ্য নির্দেশিকা",
+    "description": "আপনার পছন্দের ভাষায় প্রয়োজনীয় স্বাস্থ্য নির্দেশিকা শুনুন। আশা কর্মী এবং সম্প্রদায়ের সদস্যদের জন্য উপযুক্ত।",
+    "play": "চালান",
+    "pause": "থামান",
+    "duration": "সময়কাল: 2:41 মিনিট"
+  },
+  "healthTips": {
+    "title": "প্রয়োজনীয় স্বাস্থ্য টিপস",
+    "items": [
+      { "title": "টিপ 1 শিরোনাম", "description": "টিপ 1 বর্ণনা" },
+      { "title": "টিপ 2 শিরোনাম", "description": "টিপ 2 বর্ণনা" },
+      { "title": "টিপ 3 শিরোনাম", "description": "টিপ 3 বর্ণনা" },
+      { "title": "টিপ 4 শিরোনাম", "description": "টিপ 4 বর্ণনা" }
+    ]
+  },
+  "quiz": {
+    "title": "জ্ঞান কুইজ",
+    "score": "স্কোর",
+    "description": "আমাদের ইন্টারেক্টিভ কুইজ দিয়ে আপনার স্বাস্থ্য জ্ঞান পরীক্ষা করুন",
+    "startButton": "কুইজ শুরু করুন",
+    "correct": "সঠিক!",
+    "incorrect": "পুরোপুরি সঠিক নয়",
+    "submitAnswer": "উত্তর জমা দিন",
+    "nextQuestion": "পরবর্তী প্রশ্ন",
+    "exit": "কুইজ থেকে বের হন"
+  },
+  "learningProgress": {
+    "title": "শিক্ষার অগ্রগতি",
+    "quizScore": "কুইজ স্কোর",
+    "modules": "মডিউল",
+    "completion": "সমাপ্তি"
+  },
+  "learningModules": {
+    "title": "শিক্ষার মডিউল",
+    "waterSafety": "জল নিরাপত্তা",
+    "diseasePrevention": "রোগ প্রতিরোধ",
+    "emergencyResponse": "জরুরি প্রতিক্রিয়া",
+    "communityHealth": "সম্প্রদায়ের স্বাস্থ্য"
+  },
+  "resources": {
+    "title": "সম্পদ",
+    "healthGuidelines": "স্বাস্থ্য নির্দেশিকা",
+    "audioLibrary": "অডিও লাইব্রেরি",
+    "communityForum": "সম্প্রদায়ের ফোরাম",
+    "certificates": "সার্টিফিকেট"
+  },
+  "quickActions": {
+    "title": "দ্রুত পদক্ষেপ",
+    "startLearning": "শেখা শুরু করুন",
+    "takeAssessment": "মূল্যায়ন দিন",
+    "viewCertificates": "সার্টিফিকেট দেখুন"
+  }
+}

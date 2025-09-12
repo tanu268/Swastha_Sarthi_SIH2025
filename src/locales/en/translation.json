@@ -1,0 +1,60 @@
+  {
+  "title": "Health Awareness and Education",
+  "subtitle": "Learn, practice, and stay informed about community health",
+  "language": "Language",
+  "duration": "Duration",
+
+  "audio": {
+    "title": "Audio Health Guide",
+    "description": "Listen to essential health guidelines in your preferred language. Perfect for ASHA workers and community members.",
+    "play": "Play",
+    "pause": "Pause",
+    "duration": "Duration: 2:41 minutes"
+  },
+  "healthTips": {
+    "title": "Essential Health Tips",
+    "items": [
+      { "title": "Tip 1 title", "description": "Tip 1 description" },
+      { "title": "Tip 2 title", "description": "Tip 2 description" },
+      { "title": "Tip 3 title", "description": "Tip 3 description" },
+      { "title": "Tip 4 title", "description": "Tip 4 description" }
+    ]
+  },
+  "quiz": {
+    "title": "Knowledge Quiz",
+    "score": "Score",
+    "description": "Test your health knowledge with our interactive quiz",
+    "startButton": "Start Quiz",
+    "correct": "Correct!",
+    "incorrect": "Not quite right",
+    "submitAnswer": "Submit Answer",
+    "nextQuestion": "Next Question",
+    "exit": "Exit Quiz"
+  },
+  "learningProgress": {
+    "title": "Learning Progress",
+    "quizScore": "Quiz Score",
+    "modules": "Modules",
+    "completion": "Completion"
+  },
+  "learningModules": {
+    "title": "Learning Modules",
+    "waterSafety": "Water Safety",
+    "diseasePrevention": "Disease Prevention",
+    "emergencyResponse": "Emergency Response",
+    "communityHealth": "Community Health"
+  },
+  "resources": {
+    "title": "Resources",
+    "healthGuidelines": "Health Guidelines",
+    "audioLibrary": "Audio Library",
+    "communityForum": "Community Forum",
+    "certificates": "Certificates"
+  },
+  "quickActions": {
+    "title": "Quick Actions",
+    "startLearning": "Start Learning",
+    "takeAssessment": "Take Assessment",
+    "viewCertificates": "View Certificates"
+  }
+}
